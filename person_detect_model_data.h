@@ -4,6 +4,7 @@
 #include <cstdint>
 
 // Declare external pointers to model data
+//number of models = number of exits you are running
 extern const unsigned char g_person_detect_model_data1[];
 extern const unsigned char g_person_detect_model_data2[];
 extern const unsigned char g_person_detect_model_data3[];
